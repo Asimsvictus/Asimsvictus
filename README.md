@@ -15,8 +15,8 @@ Python · Wazuh · Windows Server · Networking
 ## Projects
 | Project | Description |
 |---|---|
-| Home SOC Lab | Attack & detection environment with Wazuh SIEM |
-| Network Traffic Analyser | Python tool for detecting port scans and IOCs |
+| [Home SOC Lab](https://github.com/Asimsvictus/home-soc-lab) | Attack & detection environment with Wazuh SIEM  |
+| [Network Traffic Analyser](https://github.com/Asimsvictus/network-traffic-analyser) | Python port scan detector using Scapy  |
 | Phishing Analysis Toolkit | Automated email threat analysis with VirusTotal API |
 | CTF Writeups | TryHackMe and CTF walkthroughs |
 
