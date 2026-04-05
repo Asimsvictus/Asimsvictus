@@ -21,4 +21,4 @@ Python · Wazuh · Windows Server · Networking
 | CTF Writeups | TryHackMe and CTF walkthroughs |
 
 ## Connect
-LinkedIn: linkedin.com/in/asim-ahmed-67244523b
+[linkedin.com/in/asim-ahmed-67244523b](https://www.linkedin.com/in/asim-ahmed-67244523b)
