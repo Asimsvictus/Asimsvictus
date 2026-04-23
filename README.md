@@ -23,7 +23,7 @@ Kali Linux · Wireshark · Nmap · Metasploit · Hydra · Scapy · Wazuh · Burp
 | [Home SOC Lab](https://github.com/Asimsvictus/home-soc-lab) | 3-VM attack & detection environment with Wazuh SIEM and MITRE ATT&CK mapping | ✅ Complete |
 | [Network Traffic Analyser](https://github.com/Asimsvictus/network-traffic-analyser) | Python tool using Scapy to detect port scans from live TCP packet capture | ✅ Complete |
 | [Phishing Analysis Toolkit](https://github.com/Asimsvictus/phishing-analyser) | Automated email phishing detection with header analysis and VirusTotal API | ✅ Complete |
-| [CTF Writeups](https://github.com/Asimsvictus/ctf-writeups) | TryHackMe and CTF walkthroughs with full methodology documentation | 🔄 In Progress |
+| [CTF Writeups](https://github.com/Asimsvictus/ctf-writeups) | TryHackMe and CTF walkthroughs with full methodology documentation | ✅ Complete |
 
 ---
 
