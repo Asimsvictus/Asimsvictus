@@ -4,7 +4,6 @@ Final-year Cybersecurity student at UOWD (WAM: 78) | ISC2 CC Certified | CompTIA
 ---
 
 ## What I'm working on
-- Building a home SOC lab with Wazuh SIEM — attack simulation and detection
 - TryHackMe SOC Level 1 pathway - log analysis, threat hunting, incident response
 - CompTIA Security+ (SY0-701) - exam June 2026
 
