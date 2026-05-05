@@ -10,18 +10,19 @@ Final-year Cybersecurity student at UOWD (WAM: 78) | ISC2 CC Certified | CompTIA
 ---
 
 ## Skills
-Kali Linux · Wireshark · Nmap · Metasploit · Hydra · Scapy · Wazuh · Nessus · Burp Suite · Python · Bash · Windows Server · Networking · MITRE ATT&CK · Vulnerability Assessment
+Kali Linux · Wireshark · Nmap · Metasploit · Hydra · Scapy · Wazuh · Splunk · Nessus · Burp Suite · Python · Bash · Windows Server · Networking · MITRE ATT&CK · Vulnerability Assessment
 
 ---
 
 ## Projects
 | Project | Description | Status |
 |---|---|---|
-| [Vulnerability Scanner Lab](https://github.com/Asimsvictus/vulnerability-scanner-lab) | Credentialed vulnerability assessment using Nessus Essentials — identified 5 High severity CVEs on a Windows 10 target | ✅ Complete |
-| [Home SOC Lab](https://github.com/Asimsvictus/home-soc-lab) | 3-VM attack & detection environment with Wazuh SIEM and MITRE ATT&CK mapping | ✅ Complete |
-| [Network Traffic Analyser](https://github.com/Asimsvictus/network-traffic-analyser) | Python tool using Scapy to detect port scans from live TCP packet capture | ✅ Complete |
-| [Phishing Analysis Toolkit](https://github.com/Asimsvictus/phishing-analyser) | Automated email phishing detection with header analysis and VirusTotal API | ✅ Complete |
-| [CTF Writeups](https://github.com/Asimsvictus/ctf-writeups) | TryHackMe and CTF walkthroughs with full methodology documentation | ✅ Complete |
+| [Splunk SIEM Lab](https://github.com/Asimsvictus/splunk-siem-lab) | Windows event log ingestion and threat detection using Splunk — real-time failed logon detection, custom dashboard, and automated alerting | Complete |
+| [Vulnerability Scanner Lab](https://github.com/Asimsvictus/vulnerability-scanner-lab) | Credentialed vulnerability assessment using Nessus Essentials — identified 5 High severity CVEs on a Windows 10 target | Complete |
+| [Home SOC Lab](https://github.com/Asimsvictus/home-soc-lab) | 3-VM attack & detection environment with Wazuh SIEM and MITRE ATT&CK mapping | Complete |
+| [Network Traffic Analyser](https://github.com/Asimsvictus/network-traffic-analyser) | Python tool using Scapy to detect port scans from live TCP packet capture | Complete |
+| [Phishing Analysis Toolkit](https://github.com/Asimsvictus/phishing-analyser) | Automated email phishing detection with header analysis and VirusTotal API | Complete |
+| [CTF Writeups](https://github.com/Asimsvictus/ctf-writeups) | TryHackMe and CTF walkthroughs with full methodology documentation | Complete |
 
 ---
 
