@@ -1,5 +1,5 @@
 # Mohammed Asim - Cybersecurity Graduate
-Final-year Cybersecurity student at UOWD (WAM: 78) | ISC2 CC Certified | CompTIA Security+ In Progress | Blue Team & SOC Analyst Track
+Final-year Cybersecurity student at UOWD (WAM: 78) | ISC2 CC Completed | CompTIA Security+ In Progress | Blue Team & SOC Analyst Track
 
 ---
 
