@@ -1,9 +1,10 @@
 # Mohammed Asim - Cybersecurity Graduate
-Final-year Cybersecurity student at UOWD (WAM: 80) | ISC2 CC Completed | CompTIA Security+ Certified | Blue Team & SOC Analyst Track
+Cyber Security Graduate from UOWD (WAM: 80) | ISC2 CC Completed | CompTIA Security+ Certified | Blue Team & SOC Analyst Track
 
 ---
 
 ## What I'm working on
+- New projects gaining hands-on experience in SOC / Security Engineering / InfoSec
 - TryHackMe SOC Level 1 pathway - log analysis, threat hunting, incident response
 
 
@@ -27,7 +28,7 @@ Kali Linux · Wireshark · Nmap · Metasploit · Hydra · Scapy · Wazuh · Splu
 ---
 
 ## Certifications
-- CompTIA Security+ (SY0-701) - cleared in September 2026
+- CompTIA Security+ (SY0-701) - Certified Sep 2026
 - ISC2 Certified in Cybersecurity (CC)
 - TryHackMe SOC Level 1 - in progress
 
