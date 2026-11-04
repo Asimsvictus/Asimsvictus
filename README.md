@@ -6,7 +6,7 @@
 
 I build SOC pipelines in a home lab: simulate the attack, detect it in the SIEM, automate the response, and track the case to closure.
 
-[![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B%20(SY0--701)-C8202F?style=for-the-badge)](YOUR_CREDLY_LINK)
+[![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B%20(SY0--701)-C8202F?style=for-the-badge)](https://www.credly.com/badges/3ea43fb8-b30d-4938-87dd-805382150d08/public_url)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Asim%20Ahmed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asim-ahmed-/)
 [![Email](https://img.shields.io/badge/Email-Contact%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asimmohammed225@gmail.com)
 
@@ -85,7 +85,7 @@ flowchart LR
 
 | Certification | Status |
 |:---|:---|
-| **CompTIA Security+ (SY0-701)** | ✅ Certified, Sep 2026 · [Verify on Credly](YOUR_CREDLY_LINK) |
+| **CompTIA Security+ (SY0-701)** | ✅ Certified, Sep 2026 · [Verify on Credly](https://www.credly.com/badges/3ea43fb8-b30d-4938-87dd-805382150d08/public_url) |
 | **TryHackMe SOC Level 1** | 🔄 In progress |
 
 ---
